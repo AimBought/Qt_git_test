@@ -1,0 +1,9 @@
+# ninja log v6
+22	370	7685150177803079	Qt_repo_autogen/timestamp	af0ceddcef81ef39
+22	370	7685150177803079	Qt_repo_autogen/mocs_compilation.cpp	af0ceddcef81ef39
+22	370	7685150177803079	C:/Users/jakub/Documents/QtTest/Qt_git_test/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Qt_repo_autogen/timestamp	af0ceddcef81ef39
+22	370	7685150177803079	C:/Users/jakub/Documents/QtTest/Qt_git_test/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Qt_repo_autogen/mocs_compilation.cpp	af0ceddcef81ef39
+376	2471	7685150178458762	CMakeFiles/Qt_repo.dir/Qt_repo_autogen/mocs_compilation.cpp.obj	cd8ce8df7c84c0dd
+379	2484	7685150178498813	CMakeFiles/Qt_repo.dir/main.cpp.obj	e97c503d8791fc58
+382	2605	7685150178528838	CMakeFiles/Qt_repo.dir/mainwindow.cpp.obj	53511fafd493dc4
+2605	2898	7685150200754537	Qt_repo.exe	99c1cea812e59f9d
