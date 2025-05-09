@@ -16,3 +16,6 @@ int main(int argc, char *argv[])
 //cos tam
 //jeszcze cos tam
 //cos tam
+
+
+//witam elo czesc siemanko
