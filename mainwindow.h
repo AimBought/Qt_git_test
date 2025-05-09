@@ -2,6 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QPushButton>
+#include <QListWidget>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -16,8 +18,12 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+private slots:
+    void addItemToList();
 
 private:
     Ui::MainWindow *ui;
+    QPushButton *addButton;
+    QListWidget *listWidget;
 };
 #endif // MAINWINDOW_H
